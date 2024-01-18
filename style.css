@@ -1378,7 +1378,54 @@ background: #4CE0D7;
     justify-content: end;
     margin-left: 84px;
 }
- 
+   
+
+
+.text1 a{
+
+    transition: 0.3s;
+    
+
+}
+
+.text1 a:hover{
+    
+    color: #4CE0D7;
+
+}
+
+
+.contact h1:hover{
+    color: #FFF;
+
+}  
+
+
+.Component2:hover{
+    color: #FFF;
+}
+
+
+
+.about a:hover{
+    color: #FFF;
+}
+
+
+.text100 a:hover{
+    color: #FFF;
+}
+
+
+.four a:hover{
+    color: #FFF;
+
+}
+
+
+.tex91 a:hover{
+    color: #FFF;
+}
 
 
 
