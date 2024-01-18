@@ -2,6 +2,11 @@
 
 
 
+.LUX{
+
+
+}
+
 
 .header{
     width: 1440px;
@@ -153,14 +158,36 @@ background-image: url(./Ellipse\ 1.png)
 }
 
 
-.you{
 
-    width: 147px;
-    height : 20px;
-    flex-shrink: 0;
-    background: #4CE0D7;
+
+
+
+.LUX{ 
+    display: flex;
+    align-items: center;
+    
+    
     
 }
+
+.you{
+width :  174px;
+
+
+height: 21px;
+
+
+background: #4CE0D7;
+
+
+}
+
+
+.you{
+    display: flex;
+    align-items: center;
+}
+
 
 
 
@@ -1333,9 +1360,25 @@ background: #4CE0D7;
 
 
 
+.fone{
+width :  143px;
+
+padding-right: 8px;
+height: 21px;
 
 
+background: #4CE0D7;
 
+}
+  
+
+.fone{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-left: 84px;
+}
+ 
 
 
 
